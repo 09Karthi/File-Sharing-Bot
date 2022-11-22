@@ -5,8 +5,9 @@
     "telegram",
     "file",
     "sharing"
-  ],
-  "repository": https://github.com/09Karthi/ File-Sharing-Bot
+  
+  "repository":https://github.com/09Karthi/File-Sharing-Bot
+
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
